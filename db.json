@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "itay",
+      "number": 1995,
+      "age": 12,
+      "img": "p1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "yoed",
+      "number": 1998,
+      "age": 122,
+      "img": "p2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "jacob",
+      "number": 2005,
+      "age": 62,
+      "img": "p3.jpg"
+    },
+    {
+      "name": "ana",
+      "number": 19,
+      "age": 12,
+      "img": "p1.jpg",
+      "id": 8
+    },
+    {
+      "name": "bbb",
+      "number": "77",
+      "age": "5",
+      "img": "p1.jpg",
+      "id": 9
+    }
+  ]
+}
